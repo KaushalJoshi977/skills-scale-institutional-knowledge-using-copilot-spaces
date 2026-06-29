@@ -79,3 +79,8 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 
+
+
+---
+
+See docs/additional-personas.md for targeted, cross-cutting roles and responsibilities.
